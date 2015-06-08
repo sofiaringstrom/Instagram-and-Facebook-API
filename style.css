@@ -1,0 +1,42 @@
+body {
+	background: -webkit-linear-gradient(left, #4b095b, #832499, #4b095b); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(right, #4b095b, #832499, #4b095b); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(right, #4b095b, #832499, #4b095b); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to right, #4b095b, #832499, #4b095b); /* Standard syntax */
+	color: white;
+}
+
+
+.insta-post {
+	background: white;
+	padding: 10px;
+	width: 170px;
+	color: #2d2d2d;
+	margin: 10px;
+}
+
+.fa-heart {
+	color: red;
+}
+
+.insta-img {
+	margin-bottom: 5px;
+}
+
+.btn-vote {
+	padding: 2px 5px;
+	background: -webkit-linear-gradient(#5a5a5c, #121212); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#5a5a5c, #121212); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#5a5a5c, #121212); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#5a5a5c, #121212); /* Standard syntax */
+	color: white;
+}
+
+.btn-vote:hover {
+	padding: 2px 5px;
+	background: -webkit-linear-gradient(#5a5a5c, #121212); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#5a5a5c, #121212); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#5a5a5c, #121212); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#5a5a5c, #121212); /* Standard syntax */
+	color: white;
+}
